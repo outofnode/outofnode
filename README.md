@@ -1,7 +1,7 @@
 # ⚡ Hello World! I'm Shivam Vishwakarma 👋
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Role-Tech%20%26%20Explorer-blue?style=for-the-badge" alt="Role Badge" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Focus-Programming%20%E2%80%A2%20DSA%20%E2%80%A2%20Software%20Dev-orange?style=for-the-badge" alt="Focus Badge" />
+  <img src="https://img.shields.io/badge/Role-Tech Explorer-blue?style=for-the-badge" alt="Role Badge" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Focus-Programming%20%E2%80%A2%20DSA%20%E2%80%A2%20Software%20Dev-orange?style=for-the-badge" alt="Focus Badge" />
 </p>
 
 ---
