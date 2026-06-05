@@ -15,15 +15,14 @@
 🚀 Exploring Data Structures, Algorithms, and Problem Solving
 🌱 Continuously Learning and Building Projects
 
----
 
 ### 🌱 **Currently Learning & Mastering**
 
-**C Programming**
+C Programming
 ↳ *Focusing on:* **Pointers, Memory Allocation, and System Fundamentals**
 
-**Python**
+Python
 ↳ *Focusing on:* **Object-Oriented Programming (OOPs), Scripting, and Automation**
 
-**Data Structures & Algorithms**
+Data Structures & Algorithms
 ↳ *Focusing on:* **Time Complexity, Code Optimization, and Problem Solving**
