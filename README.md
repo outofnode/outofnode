@@ -5,16 +5,24 @@
 </p>
 
 
-### 👨‍💻 About Me
-```text
-🎓 Pursuing Master of Computer Applications (MCA)
-📍 Varanasi, Uttar Pradesh, India
-💻 Interested in Programming and Software Development
-🚀 Exploring Data Structures, Algorithms, and Problem Solving
-🌱 Continuously Learning and Building Projects
 
+### 🤷‍♂️ About Me
 
-🌱 Currently Learning
-. C Programming
-. Python
-. Data Structures & Algorithms
+🎓 **Pursuing Master of Computer Applications (MCA)**
+📍 **Varanasi, Uttar Pradesh, India**
+💻 **Interested in Programming and Software Development**
+🚀 **Exploring Data Structures, Algorithms, and Problem Solving**
+🌱 **Continuously Learning and Building Projects**
+
+---
+
+### 🌱 **Currently Learning & Mastering**
+
+**C Programming**
+↳ *Focusing on:* **Pointers, Memory Allocation, and System Fundamentals**
+
+**Python**
+↳ *Focusing on:* **Object-Oriented Programming (OOPs), Scripting, and Automation**
+
+**Data Structures & Algorithms**
+↳ *Focusing on:* **Time Complexity, Code Optimization, and Problem Solving**
