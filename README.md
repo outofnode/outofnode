@@ -4,7 +4,6 @@
   <img src="https://img.shields.io/badge/Role-Tech Explorer-blue?style=for-the-badge" alt="Role Badge" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Focus-Programming%20%E2%80%A2%20DSA%20%E2%80%A2%20Software%20Development-orange?style=for-the-badge" alt="Focus Badge" />
 </p>
 
----
 
 ### 👨‍💻 About Me
 ```text
@@ -16,7 +15,6 @@
 
 
 🌱 Currently Learning
-```text
-C Programming
-Python
-Data Structures & Algorithms
+. C Programming
+. Python
+. Data Structures & Algorithms
