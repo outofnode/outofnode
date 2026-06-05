@@ -15,13 +15,8 @@
 🌱 Continuously Learning and Building Projects
 
 
-🌱 Currently Learning & Mastering
+🌱 <b>Currently Learning & Mastering </b>
 
 C Programming
-↳ Focusing on: Pointers, Memory Allocation, and System Fundamentals
-
 Python
-↳ Focusing on: Object-Oriented Programming (OOPs), Scripting, and Automation
-
 Data Structures & Algorithms
-↳ Focusing on: Time Complexity, Code Optimization, and Problem Solving
