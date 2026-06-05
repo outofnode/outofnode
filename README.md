@@ -7,19 +7,17 @@
 
 ---
 
-### 👨‍💻 About Me
-
 ```text
-## 👨‍💻 About Me
 
-- 🎓 Pursuing Master of Computer Applications
-- 📍 Varanasi, Uttar Pradesh, India
-- 💻 Interested in Programming and Software Development
-- 🚀 Exploring Data Structures, Algorithms, and Problem Solving
-- 📚 Teacher and Lifelong Learner
+👨‍💻 About Me
+🎓 Pursuing Master of Computer Applications
+📍 Varanasi, Uttar Pradesh, India
+💻 Interested in Programming and Software Development
+🚀 Exploring Data Structures, Algorithms, and Problem Solving
+📚 Teacher and Lifelong Learner
 
-## 🌱 Currently Learning
 
-- Python
-- C Programming
-- Data Structures & Algorithms
+🌱 Currently Learning
+. Python
+. C Programming
+. Data Structures & Algorithms
