@@ -14,13 +14,9 @@
 🚀 Exploring Data Structures, Algorithms, and Problem Solving
 🌱 Continuously Learning and Building Projects
 
----
 
-<p>
-## 🌱 Currently Learning
+🌱 Currently Learning
 ```text
-- C Programming
-- Data Structures & Algorithms
-- Python
-- Git & GitHub
-</p>
+C Programming
+Python
+Data Structures & Algorithms
