@@ -15,7 +15,7 @@
 🌱 Continuously Learning and Building Projects
 
 
-🌱 <b>Currently Learning & Mastering </b>
+Currently Learning & Mastering
 
 C Programming
 Python
