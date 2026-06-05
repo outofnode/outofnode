@@ -8,7 +8,6 @@
 
 ### 🤷‍♂️ About Me
 ```text
-
 🎓 Pursuing Master of Computer Applications (MCA)
 📍 Varanasi, Uttar Pradesh, India
 💻 Interested in Programming and Software Development
