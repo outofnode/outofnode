@@ -10,6 +10,6 @@
 ```text
 🎓 Pursuing Master of Computer Applications (MCA)
 📍 Varanasi, Uttar Pradesh, India
-💻 Interested in Programming and Software Development
+💻 Interested in Programming & Software Development
 🚀 Exploring Data Structures, Algorithms, and Problem Solving
-🌱 Continuously Learning and Building Projects
+🌱 Continuously learning and building projects
