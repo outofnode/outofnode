@@ -1,7 +1,7 @@
 # ⚡ Hello World! I'm Shivam Vishwakarma 👋
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Role-Teacher%20%26%20MCA%20Student-blue?style=for-the-badge" alt="Role Badge" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Focus-Programming%20%E2%80%A2%20DSA%20%E2%80%A2%20Software%20Dev-orange?style=for-the-badge" alt="Focus Badge" />
+  <img src="https://img.shields.io/badge/Role-Tech%20%26%20Explorer-blue?style=for-the-badge" alt="Role Badge" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Focus-Programming%20%E2%80%A2%20DSA%20%E2%80%A2%20Software%20Dev-orange?style=for-the-badge" alt="Focus Badge" />
 </p>
 
 ---
@@ -13,8 +13,8 @@
 🏫 Actively engaged as a Guide Teacher and Technical Mentor
 🎨 Intersects clean, optimized code with creative design aesthetics
 
+---
 
-```text
 ### 👨‍💻 Currently_Learning
 
 🐍 Python for Data Science & Analytical Models
